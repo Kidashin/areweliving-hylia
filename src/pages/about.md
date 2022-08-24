@@ -1,6 +1,6 @@
 ---
 layout: layouts/page.njk
 title: About
-permalink: /about
+permalink: https://musical-khapse-ca264f.netlify.app/about
 ---
 This is the about page.
