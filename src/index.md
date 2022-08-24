@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Are we living?
+title: Wake Up!
 metaDesc: Hylia is a lightweight Eleventy starter kit to help you to create your
   own blog or personal website.
 postsHeading: Latest posts
