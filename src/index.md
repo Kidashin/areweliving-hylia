@@ -8,4 +8,4 @@ socialImage: ""
 ---
 I mean really living, not just existing. 
 
-Are you depressed, anxious, feeling like there's more to life,
+If life is getting the better of you, then maybe this website is for you.
