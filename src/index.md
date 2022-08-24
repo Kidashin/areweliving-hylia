@@ -1,12 +1,11 @@
 ---
 layout: home
 title: Are We Living?
-metaDesc: Are we living? Or are we only existing?
+metaDesc: Are we living? Or are we only existing? You decide.
 postsHeading: Latest posts
 archiveButtonText: See all posts
 socialImage: ""
 ---
+I mean really living, not just existing. 
 
-Hylia is a lightweight [Eleventy](https://11ty.io) starter kit with [Netlify CMS](https://www.netlifycms.org/) pre-configured, so that you can one-click install a progressive, accessible blog in minutes. It also gives you a well organised starting point to extend yourself. It’s by [Andy Bell](https://twitter.com/hankchizljaw) and [friends](https://github.com/aarongustafson/hylia/graphs/contributors).
-
-Get started now by [deploying Hylia to Netlify.](https://app.netlify.com/start/deploy?repository=https://github.com/hankchizljaw/hylia&stack=cms)
+Are you depressed, anxious, feeling like there's more to life,
