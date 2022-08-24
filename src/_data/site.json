@@ -1,13 +1,13 @@
 {
   "showThemeCredit": false,
   "name": "AreWeLiving",
-  "shortDesc": "Hylia is a lightweight Eleventy starter kit to help you to create your own blog or personal website.",
+  "shortDesc": " ",
   "url": "https://hylia.website",
-  "authorEmail": "hi@piccalil.li",
-  "authorHandle": "@piccalilli_",
+  "authorEmail": "example@example.com",
+  "authorHandle": "",
   "authorName": "Kida",
   "enableThirdPartyComments": false,
-  "paymentPointer": "$ilp.uphold.com/MggmnFEyQqhk",
+  "paymentPointer": ".",
   "faviconPath": "/images/favicon.png",
   "maxPostsPerPage": 3
 }
