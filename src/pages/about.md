@@ -5,4 +5,8 @@ permalink: /about/index.html
 ---
 You can call me Kida 👋
 
-This is a place where I can share my outlook on life. Maybe you will take something away from it, or maybe you won't. Either way, it's my little corner of the internet, where I can just be me.
+I write about my perspective on this weird existence. And I try to make people question everything, and show that living should not be so serious. Nothing really matters, so be the best person you can be, and live a happy life. 
+
+
+
+We are after all just organisms drifting along a universe that is much bigger than us. Our one purpose is to exist.
